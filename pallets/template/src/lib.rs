@@ -125,9 +125,7 @@ pub mod pallet {
 
 		// 	Ok(().into())
 		// }
-		fn test(){
-
-		}
+		 
 	}
 
 }
